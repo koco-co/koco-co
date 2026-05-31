@@ -1,4 +1,4 @@
-## Hey, I'm koco 👋
+## Hey, I'm Coolomi 
 
 QA Engineer exploring the intersection of **AI** and **Software Testing**.
 
