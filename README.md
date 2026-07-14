@@ -1,17 +1,8 @@
-## Hey, I'm Coolomi 
+## Hey, I'm Coolomi
 
 QA Engineer exploring the intersection of **AI** and **Software Testing**.
 
-Building AI-powered testing tools with Claude Code — from requirement analysis to automated test generation.
-
----
-
-### 🔧 My Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Sisyphus-AutoFlow**](https://github.com/koco-co/sisyphus-autoflow) | HAR-driven API test generation engine with 5-Agent orchestration & L1-L5 assertions | Python · pytest · Claude Code Plugin |
-| [**QAFlow**](https://github.com/koco-co/qa-flow) | AI-powered QA workflow engine: PRD → Test Cases → UI Automation | TypeScript · Playwright · Claude Code Skills |
+Building AI-powered testing workflows with ChatGPT Codex — from requirement analysis to automated test generation.
 
 ---
 
@@ -32,7 +23,6 @@ Building AI-powered testing tools with Claude Code — from requirement analysis
 | Resource | What it does |
 |----------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Claude Code skills collection |
-| [obra/superpowers](https://github.com/obra/superpowers) | Enhanced Claude Code skill framework |
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | Productivity-focused CC skill set |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Claude Code learning resources |
 
@@ -40,7 +30,7 @@ Building AI-powered testing tools with Claude Code — from requirement analysis
 
 ### 🛠 My Toolbox
 
-**AI Coding**: Claude Code · Superpowers · Cursor · Copilot
+**AI Coding**: ChatGPT Codex · Claude Code · Cursor · GitHub Copilot
 
 **Terminal**: Ghostty · tmux
 
