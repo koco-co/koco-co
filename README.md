@@ -1,144 +1,109 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Koco — AI-powered QA engineer and builder" />
+# 𝓚𝓸𝓬𝓸
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Koco — Harness Agent Builder / 驾驭智能体，构建可验证、可复用的工程系统" />
+</picture>
 
 <br />
 
-### I turn testing knowledge into reliable AI workflows.
-
-**QA Engineer · AI Workflow Builder · Developer Toolmaker**
-
-Turning testing knowledge into executable, verifiable, and reusable engineering systems.
-
-<br />
-
-<a href="https://github.com/koco-co?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/EXPLORE-PROJECTS-58E6D9?style=for-the-badge&labelColor=0D1117"></a>
-<a href="https://koco-co.github.io"><img alt="Blog" src="https://img.shields.io/badge/READ-MY_BLOG-9B8CFF?style=for-the-badge&labelColor=0D1117"></a>
-<a href="mailto:kopohub@gmail.com"><img alt="Email" src="https://img.shields.io/badge/SAY-HELLO-FF6B9E?style=for-the-badge&labelColor=0D1117"></a>
+<a href="https://github.com/koco-co?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-61F4DC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"></a> <a href="https://koco-co.github.io/"><img alt="Blog" src="https://img.shields.io/badge/Blog-Enter_Sisyphus_Vale-A78BFA?style=for-the-badge&logo=hexo&logoColor=white&labelColor=0D1117"></a> <a href="mailto:kopohub@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_Hello-FF6FAE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"></a>
 
 </div>
 
----
+<h2 align="center">𝑨𝒈𝒆𝒏𝒕 𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑳𝒐𝒐𝒑</h2>
 
-## `01 / SELECTED_SYSTEMS`
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/agent-loop-mobile.svg">
+  <img src="./assets/agent-loop.svg" width="100%" alt="Agent operating loop / 智能体能力链：Learn 学习、Shape 塑形、Orchestrate 编排、Verify 验证" />
+</picture>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h2 align="center">𝑺𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝑺𝒚𝒔𝒕𝒆𝒎𝒔</h2>
 
-### [Kata](https://github.com/koco-co/kata) `FLAGSHIP`
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-sisyphus-vale-mobile.svg">
+  <img src="./assets/project-sisyphus-vale.svg" width="100%" alt="Sisyphus Vale — 个人知识博客，记录软件工程、质量实践、AI 工具与长期思考" />
+</picture>
 
-An **AI-driven QA workflow toolkit** built for real software delivery. It turns PRD-to-case generation, Playwright automation, XMind editing, hotfix verification, and defect analysis into auditable skills.
-
-`TypeScript` `Python` `Playwright` `AI Skills`
-
-<a href="https://github.com/koco-co/kata/blob/main/LICENSE"><img alt="Kata license" src="https://img.shields.io/github/license/koco-co/kata?style=flat-square&color=9B8CFF&labelColor=161B22"></a>
-
-</td>
-<td width="50%" valign="top">
-
-### [Tide](https://github.com/koco-co/tide) `AI TESTING`
-
-A HAR-driven, source-aware **API test generation engine**. It converts browser traffic into project-native pytest suites with layered L1–L5 assertions.
-
-`Python` `pytest` `HAR` `Codex Plugin`
-
-<a href="https://github.com/koco-co/tide/blob/main/LICENSE"><img alt="Tide license" src="https://img.shields.io/github/license/koco-co/tide?style=flat-square&color=9B8CFF&labelColor=161B22"></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [XMind2Cases](https://github.com/koco-co/xmind2cases) `QA TOOLING`
-
-An **XMind test-case conversion tool** for structured test design. It supports both XMind 8 and XMind 2026, with exports to TestLink XML, ZenTao CSV, and JSON.
-
-`Python` `Flask` `XMind` `Test Design`
-
-<a href="https://pypi.org/project/xmind2cases/"><img alt="PyPI" src="https://img.shields.io/pypi/v/xmind2cases?style=flat-square&color=58E6D9&labelColor=161B22"></a>
-<a href="https://github.com/koco-co/xmind2cases"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/xmind2cases?style=flat-square&color=9B8CFF&labelColor=161B22"></a>
-
-</td>
-<td width="50%" valign="top">
-
-### [World Cup 2026 Predictor](https://github.com/koco-co/worldcup-2026-predictor) `DATA LAB`
-
-A **predict–review–optimize research loop** for the 2026 World Cup. It uses Dixon–Coles probability matrices to test whether strategy changes improve results instead of presenting one-off predictions.
-
-`Data Analysis` `Dixon–Coles` `HTML` `Research`
-
-<a href="https://github.com/koco-co/worldcup-2026-predictor"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/worldcup-2026-predictor?style=flat-square&color=58E6D9&labelColor=161B22"></a>
-<a href="https://github.com/koco-co/worldcup-2026-predictor"><img alt="Repo size" src="https://img.shields.io/github/repo-size/koco-co/worldcup-2026-predictor?style=flat-square&color=9B8CFF&labelColor=161B22"></a>
-
-</td>
-</tr>
-</table>
-
-## `02 / OPERATING_SYSTEM`
-
-```text
-ROLE        QA Engineer × AI Workflow Builder
-FOCUS       Agentic Testing · Test Automation · Knowledge Engineering
-METHOD      Evidence first · Deterministic checks · Human-readable outputs
-STATUS      Building systems that make quality work repeatable
-```
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### `THINK`
-
-Requirements analysis, risk modeling, test strategy, and quality systems.
-
-</td>
-<td width="33%" valign="top">
-
-#### `BUILD`
-
-AI skills, agent workflows, CLIs, and testing infrastructure.
-
-</td>
-<td width="33%" valign="top">
-
-#### `VERIFY`
-
-Playwright, pytest, auditable evidence, and deterministic quality gates.
-
-</td>
-</tr>
-</table>
-
-## `03 / TOOLCHAIN`
-
-<div align="center">
-
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=58E6D9">
-<img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=58E6D9">
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-161B22?style=for-the-badge&logo=playwright&logoColor=58E6D9">
-<img alt="Pytest" src="https://img.shields.io/badge/pytest-161B22?style=for-the-badge&logo=pytest&logoColor=58E6D9">
-<img alt="Codex" src="https://img.shields.io/badge/Codex-161B22?style=for-the-badge&logo=openai&logoColor=9B8CFF">
-<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-161B22?style=for-the-badge&logo=anthropic&logoColor=9B8CFF">
-<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-161B22?style=for-the-badge&logo=obsidian&logoColor=9B8CFF">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=FF6B9E">
-
-</div>
-
-## `04 / SIGNAL`
-
-<div align="center">
-
-<img width="100%" alt="Koco's GitHub activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koco-co&theme=github_dark">
+<p align="center">
+  <a href="https://github.com/koco-co/koco-co.github.io"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-61F4DC?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/koco-co.github.io/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/koco-co.github.io?style=flat-square&color=61F4DC&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/koco-co.github.io"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/koco-co.github.io?style=flat-square&color=61F4DC&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/koco-co.github.io/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/koco-co.github.io?style=flat-square&color=61F4DC&labelColor=111827"></a>
+</p>
 
 <br />
 
-<sub>Build useful systems. Leave auditable evidence. Keep learning in public.</sub>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-build-goals-mobile.svg">
+  <img src="./assets/project-build-goals.svg" width="100%" alt="Build Goals — 把模糊想法塑造成明确目标、产品定义与可执行智能体工作的技能和插件工具箱" />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/koco-co/build-goals"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/build-goals/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/build-goals?style=flat-square&color=A78BFA&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/build-goals"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/build-goals?style=flat-square&color=A78BFA&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/build-goals/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/build-goals?style=flat-square&color=A78BFA&labelColor=111827"></a>
+</p>
+
+<br />
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-kata-mobile.svg">
+  <img src="./assets/project-kata.svg" width="100%" alt="Kata — 连接需求、用例、自动化、缺陷分析、基础设施诊断与证据的 AI 原生 QA 工程工作区" />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/koco-co/kata"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-FF6FAE?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/kata/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/kata?style=flat-square&color=FF6FAE&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/kata"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/kata?style=flat-square&color=FF6FAE&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/kata/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/kata?style=flat-square&color=FF6FAE&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/kata/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/koco-co/kata?style=flat-square&color=FF6FAE&labelColor=111827"></a>
+</p>
+
+<br />
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-tide-mobile.svg">
+  <img src="./assets/project-tide.svg" width="100%" alt="Tide — 基于 HAR、感知源码并使用 L1–L5 分层断言的 pytest 接口测试生成引擎" />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/koco-co/tide"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-FFD166?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/tide/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/tide?style=flat-square&color=FFD166&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/tide"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/tide?style=flat-square&color=FFD166&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/tide/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/tide?style=flat-square&color=FFD166&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/tide/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/koco-co/tide?style=flat-square&color=FFD166&labelColor=111827"></a>
+</p>
+
+<h2 align="center">𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑷𝒓𝒊𝒏𝒄𝒊𝒑𝒍𝒆𝒔</h2>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/engineering-principles-mobile.svg">
+  <img src="./assets/engineering-principles.svg" width="100%" alt="工程原则：证据先行、确定性验证、人类可读产物、系统持续复用" />
+</picture>
+
+<h2 align="center">𝑻𝒐𝒐𝒍𝒄𝒉𝒂𝒊𝒏</h2>
+
+<div align="center">
+
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=61F4DC">
+<img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=61F4DC">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=61F4DC">
+<img alt="pytest" src="https://img.shields.io/badge/pytest-111827?style=for-the-badge&logo=pytest&logoColor=61F4DC">
+<img alt="Codex" src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=A78BFA">
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=A78BFA">
+<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-111827?style=for-the-badge&logo=obsidian&logoColor=A78BFA">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=FF6FAE">
 
 <br /><br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-koco--co-0D1117?style=flat-square&logo=github)](https://github.com/koco-co)
-[![Blog](https://img.shields.io/badge/Blog-koco--co.github.io-0D1117?style=flat-square&logo=hexo)](https://koco-co.github.io)
-[![Email](https://img.shields.io/badge/Email-kopohub%40gmail.com-0D1117?style=flat-square&logo=gmail)](mailto:kopohub@gmail.com)
+𝑩𝒖𝒊𝒍𝒅 𝒖𝒔𝒆𝒇𝒖𝒍 𝒔𝒚𝒔𝒕𝒆𝒎𝒔. 𝑳𝒆𝒂𝒗𝒆 𝒂𝒖𝒅𝒊𝒕𝒂𝒃𝒍𝒆 𝒆𝒗𝒊𝒅𝒆𝒏𝒄𝒆. 𝑲𝒆𝒆𝒑 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒊𝒏 𝒑𝒖𝒃𝒍𝒊𝒄.
+
+<br /><br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-koco--co-0D1117?style=flat-square&logo=github)](https://github.com/koco-co) [![Blog](https://img.shields.io/badge/Blog-Sisyphus_Vale-0D1117?style=flat-square&logo=hexo)](https://koco-co.github.io/) [![Email](https://img.shields.io/badge/Email-kopohub%40gmail.com-0D1117?style=flat-square&logo=gmail)](mailto:kopohub@gmail.com)
 
 </div>
