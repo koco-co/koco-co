@@ -26,7 +26,7 @@
   <rect x="17" y="17" width="1166" height="296" rx="16" fill="url(#grid)" stroke="#25304B" stroke-width="1"/>
   <rect x="18" y="18" width="8" height="294" rx="4" fill="#A78BFA"/>
 
-  <text x="58" y="50" fill="#B89BFF" font-family="Inter, Arial, sans-serif" font-size="17">02 / <tspan font-family="Georgia, serif" font-style="italic" font-weight="700">Build</tspan></text>
+  <text x="58" y="50" fill="#B89BFF" font-family="Inter, Arial, sans-serif" font-size="17">02 / <tspan font-family="Georgia, serif" font-style="italic" font-weight="700">Shape</tspan></text>
   <text x="58" y="121" fill="#F4F7FF" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-style="italic" font-weight="700">Agent Build Kit</text>
   <text x="60" y="177" fill="#B89BFF" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif" font-size="25" font-style="italic">智能体构建工具箱</text>
   <text x="58" y="220" fill="#94A0BA" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic">

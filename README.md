@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Koco — Harness Agent Builder / 驾驭智能体，构建可验证、可复用的工程系统" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Koco — Agent Engineering Systems / Harness Agent Builder：驾驭智能体，构建可验证、可复用的工程系统" />
 </picture>
 
 <br />
@@ -17,7 +17,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/agent-loop-mobile.svg">
-  <img src="./assets/agent-loop.svg" width="100%" alt="Agent operating loop / 智能体能力链：Learn 学习、Shape 塑形、Orchestrate 编排、Verify 验证" />
+  <img src="./assets/agent-loop.svg" width="100%" alt="Agent operating loop / 智能体能力链及代表系统：Learn — Sisyphus Vale、Shape — Agent Build Kit、Orchestrate — Kata、Verify — Tide" />
 </picture>
 
 <h2 align="center">𝑺𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝑺𝒚𝒔𝒕𝒆𝒎𝒔</h2>
@@ -28,6 +28,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://koco-co.github.io/"><img alt="Visit blog" src="https://img.shields.io/badge/Visit-Blog-61F4DC?style=flat-square&logo=hexo&logoColor=white&labelColor=111827"></a>
   <a href="https://github.com/koco-co/koco-co.github.io"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-61F4DC?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
   <a href="https://github.com/koco-co/koco-co.github.io/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/koco-co.github.io?style=flat-square&color=61F4DC&labelColor=111827"></a>
   <a href="https://github.com/koco-co/koco-co.github.io"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/koco-co.github.io?style=flat-square&color=61F4DC&labelColor=111827"></a>
@@ -46,13 +47,14 @@
   <a href="https://github.com/koco-co/agent-build-kit/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/agent-build-kit?style=flat-square&color=A78BFA&labelColor=111827"></a>
   <a href="https://github.com/koco-co/agent-build-kit"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/agent-build-kit?style=flat-square&color=A78BFA&labelColor=111827"></a>
   <a href="https://github.com/koco-co/agent-build-kit/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/agent-build-kit?style=flat-square&color=A78BFA&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/agent-build-kit/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/koco-co/agent-build-kit?style=flat-square&color=A78BFA&labelColor=111827"></a>
 </p>
 
 <br />
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/project-kata-mobile.svg">
-  <img src="./assets/project-kata.svg" width="100%" alt="Kata — 连接需求、用例、自动化、缺陷分析、基础设施诊断与证据的 AI 原生 QA 工程工作区" />
+  <img src="./assets/project-kata.svg" width="100%" alt="Kata — 面向 Claude Code 与 Codex，以 Skill 和 CLI 串联需求、用例、Bug 分析、Playwright 自动化、服务器调试与知识沉淀的可复核 QA 工程工作区" />
 </picture>
 
 <p align="center">
@@ -67,7 +69,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/project-tide-mobile.svg">
-  <img src="./assets/project-tide.svg" width="100%" alt="Tide — 基于 HAR、感知源码并使用 L1–L5 分层断言的 pytest 接口测试生成引擎" />
+  <img src="./assets/project-tide.svg" width="100%" alt="Tide — 将本地脱敏的浏览器 HAR 转换为符合现有项目规范的 pytest 接口测试，源码感知、逐步确认并采用失败关闭的安全设计" />
 </picture>
 
 <p align="center">
@@ -95,6 +97,8 @@
 <img alt="pytest" src="https://img.shields.io/badge/pytest-111827?style=for-the-badge&logo=pytest&logoColor=61F4DC">
 <img alt="Codex" src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=A78BFA">
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=A78BFA">
+<img alt="ZCode" src="https://img.shields.io/badge/ZCode-111827?style=for-the-badge&logoColor=A78BFA">
+<img alt="Pi" src="https://img.shields.io/badge/Pi-111827?style=for-the-badge&logoColor=A78BFA">
 <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-111827?style=for-the-badge&logo=obsidian&logoColor=A78BFA">
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=FF6FAE">
 
