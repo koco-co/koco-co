@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Build Kit</title>
+  <desc id="desc">Cross-platform toolkit for clarifying ideas, building and reviewing Agent Skills and Plugins, and maintaining project documentation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.58" stop-color="#0D1322"/>
+      <stop offset="1" stop-color="#151126"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61F4DC"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FF6FAE"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#25304B" stroke-width="1" opacity="0.38"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="328" rx="22" fill="url(#background)" stroke="url(#accent)" stroke-width="2"/>
+  <rect x="17" y="17" width="1166" height="296" rx="16" fill="url(#grid)" stroke="#25304B" stroke-width="1"/>
+  <rect x="18" y="18" width="8" height="294" rx="4" fill="#A78BFA"/>
+
+  <text x="58" y="50" fill="#B89BFF" font-family="Inter, Arial, sans-serif" font-size="17">02 / <tspan font-family="Georgia, serif" font-style="italic" font-weight="700">Build</tspan></text>
+  <text x="58" y="121" fill="#F4F7FF" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-style="italic" font-weight="700">Agent Build Kit</text>
+  <text x="60" y="177" fill="#B89BFF" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif" font-size="25" font-style="italic">智能体构建工具箱</text>
+  <text x="58" y="220" fill="#94A0BA" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic">
+    <tspan x="58" dy="0">Cross-platform skills and plugin tooling for Claude Code, Codex, ZCode, and Pi.</tspan>
+    <tspan x="58" dy="29">Clarify ideas, build and review agent capabilities, and maintain project docs.</tspan>
+  </text>
+  <text x="60" y="302" fill="#F4F7FF" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif" font-size="19" font-style="italic">澄清想法，构建与审查 Agent Skill 和 Plugin，并维护项目开发文档。</text>
+
+  <line x1="858" y1="52" x2="858" y2="278" stroke="#25304B" stroke-width="1"/>
+  <g aria-hidden="true">
+    <circle cx="1024" cy="165" r="92" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.22"/>
+    <circle cx="1024" cy="165" r="62" fill="none" stroke="#A78BFA" stroke-width="1.5" stroke-dasharray="5 9" opacity="0.58"/>
+    <circle cx="1024" cy="165" r="52" fill="none" stroke="#A78BFA" stroke-width="3" opacity="0.35"/>
+    <circle cx="1024" cy="165" r="34" fill="none" stroke="#A78BFA" stroke-width="3" opacity="0.62"/>
+    <circle cx="1024" cy="165" r="15" fill="none" stroke="#A78BFA" stroke-width="3"/>
+    <path d="M1032 157L1082 107M1065 107H1082V124" fill="none" stroke="#FF6FAE" stroke-width="4" filter="url(#glow)"/>
+  </g>
+</svg>

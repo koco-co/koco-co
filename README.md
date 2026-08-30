@@ -37,15 +37,15 @@
 <br />
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/project-build-goals-mobile.svg">
-  <img src="./assets/project-build-goals.svg" width="100%" alt="Build Goals — 把模糊想法塑造成明确目标、产品定义与可执行智能体工作的技能和插件工具箱" />
+  <source media="(max-width: 600px)" srcset="./assets/project-agent-build-kit-mobile.svg">
+  <img src="./assets/project-agent-build-kit.svg" width="100%" alt="Agent Build Kit — 面向 Claude Code、Codex、ZCode 与 Pi，用于澄清想法、构建与审查 Agent Skill 和 Plugin，以及维护项目开发文档的多平台工具集" />
 </picture>
 
 <p align="center">
-  <a href="https://github.com/koco-co/build-goals"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
-  <a href="https://github.com/koco-co/build-goals/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/build-goals?style=flat-square&color=A78BFA&labelColor=111827"></a>
-  <a href="https://github.com/koco-co/build-goals"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/build-goals?style=flat-square&color=A78BFA&labelColor=111827"></a>
-  <a href="https://github.com/koco-co/build-goals/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/build-goals?style=flat-square&color=A78BFA&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/agent-build-kit"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/agent-build-kit/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/koco-co/agent-build-kit?style=flat-square&color=A78BFA&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/agent-build-kit"><img alt="Language" src="https://img.shields.io/github/languages/top/koco-co/agent-build-kit?style=flat-square&color=A78BFA&labelColor=111827"></a>
+  <a href="https://github.com/koco-co/agent-build-kit/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/koco-co/agent-build-kit?style=flat-square&color=A78BFA&labelColor=111827"></a>
 </p>
 
 <br />
