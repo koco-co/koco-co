@@ -1,11 +1,16 @@
 <div align="center">
 
-# 𝓚𝓸𝓬𝓸
+# Koco
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
   <img src="./assets/profile-hero.svg" width="100%" alt="Koco — Agent Engineering Systems / Harness Agent Builder：驾驭智能体，构建可验证、可复用的工程系统" />
 </picture>
+
+<p>
+Building auditable, reusable agent engineering systems across skills, plugins, QA workflows, and test generation.<br />
+构建覆盖技能、插件、QA 工作流与测试生成的可验证、可复用智能体工程系统。
+</p>
 
 <br />
 
@@ -13,19 +18,21 @@
 
 </div>
 
-<h2 align="center">𝑨𝒈𝒆𝒏𝒕 𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑳𝒐𝒐𝒑</h2>
+<h2 align="center">Agent Operating Loop</h2>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/agent-loop-mobile.svg">
   <img src="./assets/agent-loop.svg" width="100%" alt="Agent operating loop / 智能体能力链及代表系统：Learn — Sisyphus Vale、Shape — Agent Build Kit、Orchestrate — Kata、Verify — Tide" />
 </picture>
 
-<h2 align="center">𝑺𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝑺𝒚𝒔𝒕𝒆𝒎𝒔</h2>
+<h2 align="center">Selected Systems</h2>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/project-sisyphus-vale-mobile.svg">
-  <img src="./assets/project-sisyphus-vale.svg" width="100%" alt="Sisyphus Vale — 个人知识博客，记录软件工程、质量实践、AI 工具与长期思考" />
-</picture>
+<a href="https://koco-co.github.io/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-sisyphus-vale-mobile.svg">
+    <img src="./assets/project-sisyphus-vale.svg" width="100%" alt="Sisyphus Vale — 个人知识博客，记录软件工程、质量实践、AI 工具与长期思考" />
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://koco-co.github.io/"><img alt="Visit blog" src="https://img.shields.io/badge/Visit-Blog-61F4DC?style=flat-square&logo=hexo&logoColor=white&labelColor=111827"></a>
@@ -37,10 +44,12 @@
 
 <br />
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/project-agent-build-kit-mobile.svg">
-  <img src="./assets/project-agent-build-kit.svg" width="100%" alt="Agent Build Kit — 面向 Claude Code、Codex、ZCode 与 Pi，用于澄清想法、构建与审查 Agent Skill 和 Plugin，以及维护项目开发文档的多平台工具集" />
-</picture>
+<a href="https://github.com/koco-co/agent-build-kit">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-agent-build-kit-mobile.svg">
+    <img src="./assets/project-agent-build-kit.svg" width="100%" alt="Agent Build Kit — 面向 Claude Code、Codex、ZCode 与 Pi，用于澄清想法、构建与审查 Agent Skill 和 Plugin，以及维护项目开发文档的多平台工具集" />
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://github.com/koco-co/agent-build-kit"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
@@ -52,10 +61,12 @@
 
 <br />
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/project-kata-mobile.svg">
-  <img src="./assets/project-kata.svg" width="100%" alt="Kata — 面向 Claude Code 与 Codex，以 Skill 和 CLI 串联需求、用例、Bug 分析、Playwright 自动化、服务器调试与知识沉淀的可复核 QA 工程工作区" />
-</picture>
+<a href="https://github.com/koco-co/kata">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-kata-mobile.svg">
+    <img src="./assets/project-kata.svg" width="100%" alt="Kata — 面向 Claude Code 与 Codex，以 Skill 和 CLI 串联需求、用例、Bug 分析、Playwright 自动化、服务器调试与知识沉淀的可复核 QA 工程工作区" />
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://github.com/koco-co/kata"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-FF6FAE?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
@@ -67,10 +78,12 @@
 
 <br />
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/project-tide-mobile.svg">
-  <img src="./assets/project-tide.svg" width="100%" alt="Tide — 将本地脱敏的浏览器 HAR 转换为符合现有项目规范的 pytest 接口测试，源码感知、逐步确认并采用失败关闭的安全设计" />
-</picture>
+<a href="https://github.com/koco-co/tide">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-tide-mobile.svg">
+    <img src="./assets/project-tide.svg" width="100%" alt="Tide — 将本地脱敏的浏览器 HAR 转换为符合现有项目规范的 pytest 接口测试，源码感知、逐步确认并采用失败关闭的安全设计" />
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://github.com/koco-co/tide"><img alt="Open repository" src="https://img.shields.io/badge/Open-Repository-FFD166?style=flat-square&logo=github&logoColor=white&labelColor=111827"></a>
@@ -80,14 +93,14 @@
   <a href="https://github.com/koco-co/tide/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/koco-co/tide?style=flat-square&color=FFD166&labelColor=111827"></a>
 </p>
 
-<h2 align="center">𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑷𝒓𝒊𝒏𝒄𝒊𝒑𝒍𝒆𝒔</h2>
+<h2 align="center">Engineering Principles</h2>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/engineering-principles-mobile.svg">
   <img src="./assets/engineering-principles.svg" width="100%" alt="工程原则：证据先行、确定性验证、人类可读产物、系统持续复用" />
 </picture>
 
-<h2 align="center">𝑻𝒐𝒐𝒍𝒄𝒉𝒂𝒊𝒏</h2>
+<h2 align="center">Toolchain</h2>
 
 <div align="center">
 
